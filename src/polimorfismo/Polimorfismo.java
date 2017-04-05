@@ -9,7 +9,7 @@ package polimorfismo;
  *
  * @author Estudiante
  */
-public class Polimorfismo {
+public class Polimorfismo{
 
     /**
      * @param args the command line arguments
